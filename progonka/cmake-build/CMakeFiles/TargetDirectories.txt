@@ -1,0 +1,3 @@
+/home/nika/slay/progonka/cmake-build/CMakeFiles/progonka.dir
+/home/nika/slay/progonka/cmake-build/CMakeFiles/edit_cache.dir
+/home/nika/slay/progonka/cmake-build/CMakeFiles/rebuild_cache.dir
